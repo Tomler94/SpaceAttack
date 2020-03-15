@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6c1812ff582694746bc4689b958e077f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - AsteroidExplosion: {fileID: 4572926201767416972, guid: dce9469150a61434b99ce2f1a864b96f,
+      type: 3}
+  - ShipExplosion: {fileID: 8264189654218541746, guid: c42274e1fa44ef444bcf2886ed3674ed,
+      type: 3}
+  - player: {fileID: 1797763673529714475, guid: eff6f4cc816adae4096b77173e44b1bb,
+      type: 3}
+  - GunPosition: {fileID: 1451028888568864024, guid: 73f46379901bd1c47aefd2d1ff9a5d06,
+      type: 3}
+  - ShotEnimy: {fileID: 7947194049241384780, guid: b742341f430bd0d4cac21fad7ffbf479,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

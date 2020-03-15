@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b0cec98533ce0a043b0372c2abfb9712
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ShotOsn: {fileID: 3170543143156785665, guid: 33c1aede77d421b49b723a6cff890564,
+      type: 3}
+  - ShotDop1: {fileID: 6771009217297489868, guid: 47c81b45e8abe68428dbb1a476539853,
+      type: 3}
+  - ShotDop2: {fileID: 2099222819676935491, guid: 0464c399068bbb3479903dfa12852b23,
+      type: 3}
+  - GunPosition: {fileID: 8854375307479284884, guid: 183fdb4318d38804eb302b2420d33aed,
+      type: 3}
+  - GunPosition1: {fileID: 9188906436538200412, guid: d754300581096cf4dbb55c0f76b6b034,
+      type: 3}
+  - GunPosition2: {fileID: 5929260405990055421, guid: ce86ba6e24b7b894e946da71ac0b35fb,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
